@@ -5,7 +5,7 @@
 }
 
 :root {
-    --accent-color: #641BFF;
+    --accent-color: #62077e;
     --heading-font-family: 'Poppins', sans-serif;
     --body-font-family: 'Lato', sans-serif;
 }
@@ -35,7 +35,7 @@ body {
     padding: 2rem;
     flex-grow: 1;
     flex-basis: 0;
-    max-width: 275px;
+    max-width: 300px;
     border-radius: 8px;
 }
 
@@ -97,8 +97,8 @@ body {
     height: 1px;
     width: 100%;
     background-color: rgba(0, 0, 0, .2);
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
 }
 
 .price-column.popular .divider {
